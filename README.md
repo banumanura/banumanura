@@ -1,7 +1,6 @@
 # 💫 About Me:
 <br><br>🔭 Working on: Solving the enigma of why the JavaScript always gives unexpected results.<br><br>👯 Looking to collaborate on: A project to replace all loop structures with interpretive dance routines.<br><br>💬 Ask me about: The number of browser tabs it takes to achieve ultimate productivity.<br><br>🌱 Currently learning: How to craft a user interface so intuitive, it can be operated by a house cat.<br><br>⚡ Fun fact: The most effective debugging technique involves staring intensely at the screen until the bug fixes itself.
 
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]( [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@banuwijesinghe27) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/manura_banu) 
 
