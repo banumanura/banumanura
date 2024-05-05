@@ -1,4 +1,4 @@
-# Howdy, GitHub Folks!
+# Howdy, GitHub Folks !
 <br><br>🔭 Working on: Solving the enigma of why the JavaScript always gives unexpected results.<br><br>👯 Looking to collaborate on: A project to replace all loop structures with interpretive dance routines.<br><br>💬 Ask me about: The number of browser tabs it takes to achieve ultimate productivity.<br><br>🌱 Currently learning: How to craft a user interface so intuitive, it can be operated by a house cat.<br><br>⚡ Fun fact: The most effective debugging technique involves staring intensely at the screen until the bug fixes itself.
 
 ## 🌐 Socials:
